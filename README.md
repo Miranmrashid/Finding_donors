@@ -52,4 +52,4 @@ The modified census dataset consists of approximately 32,000 data points, with e
 
 ### A credit to Udacity
 
-This project is part of the Udacity Nanodegree, therefore the Template is provided By Udacity.
+This project is part of the Udacity Nanodegree.
